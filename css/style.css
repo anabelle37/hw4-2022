@@ -110,6 +110,9 @@ links in the navigation are in the hover or focus state.*/
 nav a:hover{
   text-decoration: underline;
 }
+nav a:focus{
+  text-decoration: underline;
+}
 
 /* Step 2a: Write selector/rule property to position the default position for the skip class element*/
 .skip a{
